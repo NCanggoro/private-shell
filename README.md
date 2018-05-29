@@ -1,2 +1,3 @@
 # private-shell
-Learning shell 
+This is Private Shell mainly for myself
+I will add some shell again If i need it
